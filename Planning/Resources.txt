@@ -1,0 +1,52 @@
+Resources:
+
+Dirt:
+  >Soil (Farming)
+      -Varying levels of nutrient richness of soil?
+      -More Nutrients = more desirable as a farming product export
+  >Gravel
+  >Clay
+
+Rocks:
+  >Gravel
+  >Coal
+  - Types of Rock? Limestone? Granite? etc
+  - Metals?
+
+Water:
+
+Oil:
+  - Crude/"Dirty"?
+
+Trees:
+  -> Logs
+  -> Planks
+
+Coal:
+  >Coke
+
+Gravel:
+  >
+
+Ore:
+  >Iron
+  >Manganese
+  >Rutile, Ilmenite
+
+Metals:
+  >Lithium
+  >Sodium
+  >Potassium
+  >Titanium
+  >Chromium
+  >Manganese
+  >Iron
+  >Cobalt
+  >Nickel
+  >Copper
+  >Zinc
+  Silver
+  >Tungsten
+  >Platinum
+  >Gold
+  >Mercury

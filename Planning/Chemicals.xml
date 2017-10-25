@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Chemical>
+	<Name>Ilmenite</Name>
+	<Composition>FeTiO3</Composition>
+</Chemical>
+<Chemical>
+    <Name>Titanium Dioxide</Name>
+    <Composition>TiO2</Composition>
+</Chemical>
+<Chemical>
+    <Name>Sulfuric Acid</Name>
+    <Composition>2H2SO4</Composition>
+</Chemical>
+<Chemical>
+    <Name>Titanium(IV) Chloride</Name>
+    <Composition>TiCl4</Composition>
+</Chemical>
+<Chemical>
+    <Name>Titanium</Name>
+    <Composition>Ti</Composition>
+</Chemical>
+<Chemical>
+    <Name>Iron(II)</Name>
+    <Composition>Fe^2+</Composition>
+</Chemical>
+<Chemical>
+    <Name>Water</Name>
+    <Composition>H2O</Composition>
+</Chemical>
+<Chemical>
+    <Name>Coke</Name>
+    <Composition>C</Composition>
+</Chemical>
+<Chemical>
+    <Name>Chlorine</Name>
+    <Composition>Cl</Composition>
+</Chemical>
+<Chemical>
+    <Name>Chloride</Name>
+    <Composition>Cl2</Composition>
+</Chemical>
+<Chemical>
+    <Name>Carbon Dioxide</Name>
+    <Composition>CO2</Composition>
+</Chemical>
+<Chemical>
+    <Name>Sodium</Name>
+    <Composition>Na</Composition>
+</Chemical>
+<Chemical>
+    <Name>Calcium Chloride</Name>
+    <Composition>CaCl2</Composition>
+</Chemical>
+<Chemical>
+    <Name>Ferrotitanium</Name>
+    <Composition>FeTi4</Composition>
+</Chemical>

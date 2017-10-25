@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ChemicalProcess Name="Titanium Dioxide, Sulfate Process"
+  ChemicalInput="Ilmenite"
+  ChemicalOutput="Titanium Dioxide"
+  Description="[http://www.essentialchemicalindustry.org/chemicals/titanium-dioxide.html]">
+  <ChemicalIngredients>
+    <Chemical Composition="FeTiO3"/>
+    <Chemical Composition="2H2SO4"/>
+  </ChemicalIngredients>
+  <ChemicalProducts>
+    <Chemical Composition="TiO2"/>
+    <Chemical Composition="3Fe^2+"/>
+    <Chemical Composition="H2O"/>
+  </ChemicalProducts>
+</ChemicalProcess>
+<ChemicalProcess Name="The Kroll Process (TiO2, Chloride Process)"
+  ChemicalInput="Titanium Dioxide"
+  ChemicalOutput="Titanium(IV) Chloride"
+  Description="Converts Titanium Oxide, Coke, and Chloride into Titanium(IV) Chloride and Carbon Dioxide. [http://www.essentialchemicalindustry.org/chemicals/titanium-dioxide.html]">
+  <ChemicalIngredients>
+    <Chemical Composition="TiO2"/>
+    <Chemical Composition="C"/>
+    <Chemical Composition="Cl"/>
+  </ChemicalIngredients>
+  <ChemicalProducts>
+    <Chemical Composition="TiCl4"/>
+    <Chemical Composition="CO2"/>
+  </ChemicalProducts>
+</ChemicalProcess>
+<ChemicalProcess Name="The ITP Armstrong Process"
+  ResourceInput="Titanium(IV) Chloride"
+  ResourceOutput="Titanium"
+  Description="Combines Titanium(IV) Chloride with Sodium to create Titanium with chlorine as a separate byproduct to be used in a continous process. [http://www.essentialchemicalindustry.org/chemicals/titanium-dioxide.html]">
+  <ChemicalIngredients>
+    <Chemical Composition="TiCl4"/>
+    <Chemical Composition="Na"/>
+  </ChemicalIngredients>
+  <ChemicalProducts>
+    <Chemical Composition="Ti"/>
+    <Chemical Composition="Na"/>
+    <Chemical Composition="Cl2"/>
+  </ChemicalProducts>
+</ChemicalProcess>
+<ChemicalProcess Name="Direct Electrochemical Reduction of Ilimenite and Titanium Dioxide in Molten Calcium Chloride"
+  ChemicalInput=""
+  ChemicalOutput=""
+  Description="https://www.researchgate.net/publication/236271158_Production_of_Fe-Ti_Alloy_from_Mixed_Ilmenite_and_Titanium_Dioxide_by_Direct_Electrochemical_Reduction_in_Molten_Calcium_Chloride">
+  <ChemicalIngredients>
+    <Chemical Composition="TiO2"/>
+    <Chemical Composition="FeTiO3"/>
+    <Chemical Composition="CaCl2"/>
+  </ChemicalIngredients>
+  <ChemicalProducts>
+    <Chemical Composition="FeTi4"/>
+  </ChemicalProducts>
+</ChemicalProcess>

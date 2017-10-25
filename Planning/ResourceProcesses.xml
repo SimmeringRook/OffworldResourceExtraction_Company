@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ResourceProcess>
+	<Name>Digging</Name>
+	<Description>Digging</Description>
+    <Products>
+        <Product Name="Soil"/>
+        <Product Name="Gravel"/>
+        <Product Name="Clay"/>
+    </Products>
+</ResourceProcess>
+<ResourceProcess Name="Minning" Description="Minning">
+	<Name>Minning</Name>
+	<Description>Minning</Description>
+    <Products>
+        <Product Name="Rocks"/>
+        <Product Name="Minerals"/>
+        <Product Name="Ores"/>
+    </Products>
+</ResourceProcess>

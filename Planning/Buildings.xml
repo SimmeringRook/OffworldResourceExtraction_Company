@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Buildings>
+  <Building>
+    <Name>Landing Zone</Name>
+    <Size>
+      <Transform>
+        <X>3</X>
+        <Y>1</Y>
+        <Z>3</Z>
+      </Transform>
+    </Size>
+    <Vehicles>
+      <Vehicle Name="Intraplanetary Transport"/>
+      <Vehicle Name="Dump Truck"/>
+    </Vehicles>
+  </Building>
+  
+  <Building>
+    <Name>Dump Site</Name>
+    <Size>
+      <Transform>
+        <X>5</X>
+        <Y>1</Y>
+        <Z>2</Z>
+      </Transform>
+    </Size>
+    <Stockpiles>
+      <Stockpile>
+        <Resource></Resource>
+        <AmountStored Unit="Metric Ton">0</AmountStored>
+        <MaximumCapacity Unit="Metric Ton">5</MaximumCapacity>
+      </Stockpile>
+    </Stockpiles>
+    <Vehicles>
+      <Vehicle Name="Front-End Loader"/>
+      <Vehicle Name="Dump Truck"/>
+    </Vehicles>
+  </Building>
+</Buildings>

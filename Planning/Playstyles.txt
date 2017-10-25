@@ -1,0 +1,3 @@
+Designed Playstyle:
+  Ranges from:
+  [Export Raw] <-----> [Export Refined]
